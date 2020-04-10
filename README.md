@@ -6,4 +6,3 @@ Here you can see all files of the OS ( some files are not in the repository for 
 If you find some bugs, you can contact :
 
 AyzeFR on discord : AyzeFR#4168 or on his discord ( https://discord.gg/xWH7aPR ).
-Sunboy on discord : 
